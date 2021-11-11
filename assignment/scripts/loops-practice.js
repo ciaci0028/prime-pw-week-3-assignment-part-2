@@ -63,7 +63,7 @@ console.log('Some stars using while:');
 let n = 0;
 const x = 5;
 while ( n < x ){
-  console.log(star);
+  console.log(stars[n]);
   n++;
 }
 
